@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('../font/ProximaNova-Semibold.woff2') format('woff2'),
+        url('../font/ProximaNova-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ProximaNovaRG';
+    src: url('../font/ProximaNovaA-Regular.eot');
+    src: url('../font/ProximaNovaA-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font/ProximaNovaA-Regular.woff2') format('woff2'),
+        url('../font/ProximaNovaA-Regular.woff') format('woff'),
+        url('../font/ProximaNovaA-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../font/Montserrat-Bold.eot');
+    src: url('../font/Montserrat-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../font/Montserrat-Bold.woff2') format('woff2'),
+        url('../font/Montserrat-Bold.woff') format('woff'),
+        url('../font/Montserrat-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ProximaBOLD';
+    src: url('../font/ProximaNova-Bold.eot');
+    src: url('../font/ProximaNova-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../font/ProximaNova-Bold.woff2') format('woff2'),
+        url('../font/ProximaNova-Bold.woff') format('woff'),
+        url('../font/ProximaNova-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
